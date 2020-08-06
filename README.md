@@ -1,6 +1,6 @@
 # Linx_Enviro_pHAT
 
-This is my first repo, using LINX fro LabVIEW
+This is my first repo, using LINX for LabVIEW 2020 Community
 I created this code for Enviro_pHAT
 So far it reads and plots:
 Temperature and 
