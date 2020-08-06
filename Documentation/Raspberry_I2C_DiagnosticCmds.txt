@@ -1,0 +1,7 @@
+To know which Raspberry HW you are using try
+cat /proc/cpuinfo
+
+
+**** How to detect i2c devices **** 
+sudo i2cdetect -y 0
+sudo i2cdetect -y 1

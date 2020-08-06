@@ -1,0 +1,6 @@
+[My Computer]
+My Computer = "192.168.15.7"
+
+[raspberrypi]
+raspberrypi = "192.168.15.6"
+
